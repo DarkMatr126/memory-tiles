@@ -556,4 +556,4 @@ function isCor6(a) {
 	}
 }
 
-//Copyrights: Niko Wolf
+//Copyrights: DarkMAtr126
